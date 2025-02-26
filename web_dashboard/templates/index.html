@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Job Execution Logs</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+  <body>
+    <h2>Job Execution Logs</h2>
+    <form method="post" action="/submit">
+      <button type="submit">Run New Job</button>
+    </form>
+    <table border="1">
+      <tr>
+        <th>Timestamp</th>
+        <th>Job ID</th>
+        <th>Status</th>
+        <th>Log Details</th>
+      </tr>
+      {% for log in logs %}
+      <tr>
+        <td>{{ log[0] }}</td>
+        <td>{{ log[1] }}</td>
+        <td>{{ log[2] }}</td>
+        <td>{{ log[3] }}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </body>
+</html>

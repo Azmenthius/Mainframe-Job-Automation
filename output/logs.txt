@@ -1,0 +1,38 @@
+Job submitted successfully!
+Logs saved to output/logs.txt
+Job JOB12345 submitted at 26 Feb 2025 17:31:53
+Job JOB12345 submitted at 26 Feb 2025 17:36:18
+Job JOB12345 submitted at 26 Feb 2025 17:38:56
+Job JOB12345 submitted at 26 Feb 2025 18:02:07
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 18:05:39
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 18:06:14
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 18:38:40
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 18:58:01
+Job JOB12345 submitted at 26 Feb 2025 19:04:08
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 19:12:36
+Job JOB12345 submitted at 26 Feb 2025 19:23:41
+Job JOB12345 submitted at 26 Feb 2025 19:24:27
+Job JOB12345 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 19:40:42
+Job JOB12345 submitted at 26 Feb 2025 19:53:45
+Job JOB12345 submitted at 26 Feb 2025 20:00:53
+Job JOB12345 submitted at 26 Feb 2025 20:02:40
+Job JOB67890 status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 20:05:00
+20250226 20:10:00.331678|JOB12345|COMPLETED|Job completed again at 20250226 20:10:00.331678
+20250226 20:10:00.360249|JOB12345|COMPLETED|Job completed again at 20250226 20:10:00.360249
+20250226 20:13:44.470530  | Job  JOB12345  | Status:  COMPLETED SUCCESSFULLY
+Job JOB12345 submitted at 26 Feb 2025 20:14:14
+20250226 20:14:31.151044  | Job  JOB12345  | Status:  COMPLETED SUCCESSFULLY
+20250226 20:17:15.492445  | Job  JOB98765  | Status:  COMPLETED SUCCESSFULLY
+20250226 20:30:01  |  JOB12345  |  Completed  |  Job completed again at  20:30:01
+REGINA SCRIPTS/SUBMIT_JOBS.REX | JOB67890 | Completed | Job completed successfully
+CAT OUTPUT/LOGS.TXT | JOB67890 | Completed | Job completed successfully
+20250226 20:44:55 | JOB12345 | Submitted | Job submitted for execution
+20250226   20:59:36.912687 | JOB10702 | Completed | Job executed successfully at 20250226   20:59:36.912687
+Job JOB12345 submitted at 27 Feb 2025 00:57:19
